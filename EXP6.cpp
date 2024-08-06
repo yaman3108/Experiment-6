@@ -34,7 +34,7 @@ int main()
     cout<<endl;
 
     //nested for loop
-    int set = 10;
+    int set = 3;
     for(int b = 1;b<=set;b++){
         for(int c = 1;c<=set;c++){
             cout<<b*c<<"\t";
@@ -61,7 +61,7 @@ int main()
     cout<<endl;
 
     // nested for-while loop
-    int rows = 5; 
+    int rows = 10; 
     for (int i = rows; i >= 1; i--) {
         int j = 1;
         while (j <= i) {
